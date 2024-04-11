@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dominiquebuob/Documents/GitHub/Bonus Assignment 4",
+      "program": "/Users/dominiquebuob/Documents/GitHub/Bonus Assignment 4/build/Debug/outDebug"
+    }
+  ]
+}
